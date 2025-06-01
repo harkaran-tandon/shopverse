@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Rubik+Doodle+Shadow&display=swap');
+@import "tailwindcss";
+  
+  .font-genz {
+    font-family: 'Rubik Doodle Shadow', cursive;
+  }

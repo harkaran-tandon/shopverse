@@ -1,0 +1,84 @@
+[
+    {
+      "id": "1",
+      "name": "Apple Watch",
+      "price": 49.99,
+      "rating": 4.5,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1624096104992-9b4fa3a279dd",
+      "description": "An ergonomic keyboard designed for accessibility and long hours of use."
+    },
+    {
+      "id": "2",
+      "name": "Noise Cancelling Headphones",
+      "price": 89.99,
+      "rating": 4.7,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1580894894514-7986c7f31898",
+      "description": "Over-ear headphones with active noise cancellation and comfort padding."
+    },
+    {
+      "id": "3",
+      "name": "Organic Cotton T-Shirt",
+      "price": 19.99,
+      "rating": 4.2,
+      "category": "Apparel",
+      "image": "https://images.unsplash.com/photo-1602810318444-1c213001a9ef",
+      "description": "Soft, breathable T-shirt made from 100% organic cotton."
+    },
+    {
+      "id": "4",
+      "name": "Standing Desk",
+      "price": 199.99,
+      "rating": 4.8,
+      "category": "Furniture",
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e17d",
+      "description": "Adjustable standing desk for ergonomic workspace setup."
+    },
+    {
+      "id": "5",
+      "name": "Running Shoes",
+      "price": 59.99,
+      "rating": 4.4,
+      "category": "Apparel",
+      "image": "https://images.unsplash.com/photo-1600185365483-26e20fa3b0e3",
+      "description": "Lightweight and durable shoes perfect for jogging and workouts."
+    },
+    {
+      "id": "6",
+      "name": "Bluetooth Smartwatch",
+      "price": 129.99,
+      "rating": 4.6,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1603899128285-78d9c511c1e2",
+      "description": "Track fitness, notifications, and health with this smart wearable."
+    },
+    {
+      "id": "7",
+      "name": "Leather Wallet",
+      "price": 39.99,
+      "rating": 4.3,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1611175694984-d6f05d9d0b6b",
+      "description": "Premium leather wallet with multiple compartments."
+    },
+    {
+      "id": "8",
+      "name": "Laptop Stand",
+      "price": 34.99,
+      "rating": 4.5,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1611175330248-3e527dfc09c3",
+      "description": "Foldable and sturdy stand for ergonomic laptop placement."
+    },
+    {
+      "id": "9",
+      "name": "Travel Backpack",
+      "price": 74.99,
+      "rating": 4.6,
+      "category": "Accessories",
+      "image": "https://images.unsplash.com/photo-1512850183-6d7990f42385",
+      "description": "Spacious backpack with padded laptop compartment and multiple pockets."
+    }
+  ]
+  
